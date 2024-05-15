@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "jime-26-04",
+  "version": "1.0.0",
+  "main": "client.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
